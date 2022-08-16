@@ -1,0 +1,56 @@
+[
+    {
+        "version": "unknown",
+        "compatibilityVersion": "unknown",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-01-01T00:00:00Z"
+    },
+    {
+        "version": "0.1",
+        "compatibilityVersion": "0.1",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-01-02T00:00:00Z"
+    },
+    {
+        "version": "0.0.1",
+        "compatibilityVersion": "0.0.1",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-01-03T00:00:00Z"
+    },
+    {
+        "version": "1.4",
+        "compatibilityVersion": "1.4",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-02-01T00:00:00Z"
+    },
+    {
+        "version": "1.4.1",
+        "compatibilityVersion": "1.4.1",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-02-02T00:00:00Z"
+    },
+    {
+        "version": "1.4rc",
+        "compatibilityVersion": "1.4rc",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-02-03T00:00:00Z"
+    },
+    {
+        "version": "1.4rc2",
+        "compatibilityVersion": "1.4rc2",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-02-04T00:00:00Z"
+    },
+    {
+        "version": "1.4beta",
+        "compatibilityVersion": "1.4beta",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-02-05T00:00:00Z"
+    },
+    {
+        "version": "1.5",
+        "compatibilityVersion": "1.5",
+        "downloadUrl": "https://raw.githubusercontent.com/hhwbtst/test/main/README.md",
+        "releaseDate": "2021-03-01T00:00:00Z"
+    }
+]
